@@ -1,7 +1,6 @@
 import fs from "fs";
 import chalk from "chalk";
 import { spinner } from "@clack/prompts";
-
 import { TreeItemFlatted } from "../../types/index.ts";
 import {
     ASK_FOR_METADATA_PROMPT,

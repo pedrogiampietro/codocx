@@ -39,6 +39,7 @@ models/
 .env.development
 .env.test
 .env.production
+.env.local
 apiKey.json
 
 # Arquivos gerados pelos testes
@@ -50,3 +51,4 @@ coverage/
 Thumbs.db
 .cache/
 .log/
+ready-api
